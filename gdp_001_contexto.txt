@@ -1,0 +1,16 @@
+Codigo Proyecto: gdp_001
+Nombre Proyecto: BioData
+Contexto de Negocio:
+
+BioData es una organización dedicada al desarrollo de modelo de analítica avanzada enfocados en solucionar situaciones relacionadas al medio ambiente y a insvestigacioness científicas en biología. 
+Recientemente se ha encontrado una especie de flor conocida como "Iris" de la cual se ha identificado un grupo de 4 especies. 
+
+OBJETIVOS COMERCIALES:
+Basado en los datos de tamaños de petalos y sepalos, se desea indagar si existe un patrón clasificatorio para llegar a predecir la especie basado en estos patrones de tamaño.
+Mejorar el pronóstico de predicción
+Reducir costos en la busqueda de los patrones
+
+Restricciones:
+- No se cuenta con presupuesto adicional de infraestuctura fisica
+- El modelo debe correr en la nube de Google de forma serverless
+- Tiempo limite de entrega 1 trimestre de desarrollo
